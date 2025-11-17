@@ -1,6 +1,6 @@
 from flask import Flask
 
-app = Flask(Dewel Rodrigues)
+app = Flask(__name__)
 
 @app.route("/")
 def pagina_inicial():
