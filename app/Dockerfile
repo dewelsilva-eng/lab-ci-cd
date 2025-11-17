@@ -1,5 +1,5 @@
 FROM python:3.10-alpine3.21
-LABEL MANTAINER="Dewel Rodrigues"
+LABEL MANTAINER="Dewel"
 
 WORKDIR /app
 
